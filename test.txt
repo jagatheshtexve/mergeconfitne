@@ -1,1 +1,1 @@
-testcity:none;
+city :bangolre
